@@ -1,0 +1,5 @@
+{
+  "name": "AI Flashcard Generator",
+  "description": "A full-stack application that generates flashcards on any topic using AI. Users can enter a topic, and the app will generate a set of 15 flashcards with varying difficulty levels to help with studying.",
+  "requestFramePermissions": []
+}
